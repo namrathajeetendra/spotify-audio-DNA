@@ -1,4 +1,4 @@
-# 🎵 Spotify Audio DNA — What Makes Songs Hit Different?
+# 🎵 Spotify Audio DNA - What Makes Songs Hit Different?
 
 An interactive music analytics app that decodes the science behind popular music, analyzing 98,000+ Spotify tracks across 114 genres.
 
